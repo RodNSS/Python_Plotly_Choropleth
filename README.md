@@ -1,4 +1,4 @@
-# Python_Plotly_Choropleth
+# Python Plotly Choropleth
 
 ![](choropleth.gif)
 
